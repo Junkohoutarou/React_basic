@@ -41,7 +41,7 @@ function NavBar() {
               About
             </Link>
             <Link
-              to="nemu"
+              to="About"
               spy={true}
               smooth={true}
               duration={500}
