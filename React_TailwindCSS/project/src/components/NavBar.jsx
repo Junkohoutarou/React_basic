@@ -62,6 +62,7 @@ function NavBar() {
             spy={true}
             smooth={true}
             duration={500}
+            className="cursor-pointer"
             <link>
             </link>
           </nav>
