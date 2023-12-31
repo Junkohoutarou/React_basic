@@ -58,12 +58,12 @@ function NavBar() {
             >
               Reviews
             </Link>
+            <Link>
             to="reviews"
             spy={true}
             smooth={true}
             duration={500}
             className="cursor-pointer"
-            <link>
             </link>
           </nav>
         </div>
