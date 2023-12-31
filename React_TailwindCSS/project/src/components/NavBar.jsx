@@ -59,6 +59,8 @@ function NavBar() {
               Reviews
             </Link>
             to="reviews"
+            spy={true}
+            
             <link>
             </link>
           </nav>
