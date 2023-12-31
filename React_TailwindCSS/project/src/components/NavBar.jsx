@@ -8,7 +8,7 @@ function NavBar() {
         <div className="flex flex-row items-center cursor-pointer">
           <div>
             <span>
-                <BiRestaurant size={32}/>
+                <BiRestaurant size={40}/>
             </span>
             <h1 className="text-xl font-semibold">Foody</h1>
           </div>
