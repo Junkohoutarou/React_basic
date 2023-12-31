@@ -32,7 +32,7 @@ function NavBar() {
               Dishes
             </Link>
             <Link
-              to="about"
+              to="Dishes"
               spy={true}
               smooth={true}
               duration={500}
