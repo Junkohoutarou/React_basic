@@ -60,6 +60,7 @@ function NavBar() {
             </Link>
             to="reviews"
             spy={true}
+            smooth={true}
             
             <link>
             </link>
