@@ -58,6 +58,7 @@ function NavBar() {
             >
               Reviews
             </Link>
+            to="reviews"
             <link>
             </link>
           </nav>
