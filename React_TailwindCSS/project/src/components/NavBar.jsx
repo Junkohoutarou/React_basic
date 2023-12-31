@@ -61,7 +61,7 @@ function NavBar() {
             to="reviews"
             spy={true}
             smooth={true}
-            
+            duration={500}
             <link>
             </link>
           </nav>
