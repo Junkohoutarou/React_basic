@@ -12,7 +12,7 @@ function NavBar() {
             </span>
             <h1 className="text-xl font-semibold">Foody</h1>
           </div>
-          <nav className="hidden md:flex flex-row items-center text-lg font-medium gap-8">
+          <nav className="hidden md:flex flex-row items-center text-lg font-medium gap-4">
             <Link
               to="home"
               spy={true}
