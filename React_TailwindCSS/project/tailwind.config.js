@@ -14,4 +14,4 @@ module.exports = {
   },
   plugins: [],
 }
-sdvbahbcxzbvhbdfovhsdcxv cihdsvffbhc
+sdvbahbcxzbvhbdfovhsdcxv cihdsvffbh
